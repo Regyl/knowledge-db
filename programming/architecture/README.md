@@ -65,10 +65,27 @@ Links:
 ### Object-Oriented Design
 Each software component divides into 3 parts:
 - entities
-- boundary objects ( This could be an object that deals with another software system - like an object that obtains information from the Internet)
+- boundary objects ( This could be an object that deals with another software system - like an object that obtains information from the Internet, or component responsible for show information to user)
 - control objects
 ---
 **CRC** cards are need for a basic system design, to show which components it will consist of.
 Each CRC contains component name, it's responsibilities and dependency components
 ![img.png](crc.png)
 ---
+
+
+## Software design specialization
+ Did u ever thought about ur projects, could they be better designed?
+ If they were:
+ - hard to support after release
+ - code hard to reuse
+ - small change in one place causes huge change in other place
+If at least one answer is yes, then yes, project could be better
+
+Software design consists of:
+- conceptual design
+  - CRC card (Class name, Responsibility, Collaborator) of the system
+  - Requirements
+    - User story
+- technical design
+- 

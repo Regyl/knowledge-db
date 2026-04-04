@@ -15,13 +15,25 @@ https://www.uscis.gov/working-in-the-united-states/stem-employment-pathways/immi
   * Призер хакатона?
 * Являетесь ли вы (или являлись ли ранее) членом ассоциации, членство в которой требует выдающихся достижений, оцениваемых признанными национальными или международными экспертами?
   * Нужна ассоциация
+    * ISC2: https://www.isc2.org/
+    * ISACA: https://www.isaca.org/
+    * ACM: https://www.acm.org/
+    * IEEE: https://www.ieee.org/
 * Публиковались ли материалы о вас и вашей работе в профессиональных изданиях, крупных отраслевых публикациях или в ведущих СМИ?
 * Принимали ли вы участие в качестве члена жюри или индивидуального эксперта, оценивающего работу других специалистов в той же или смежной области?
 * Внесли ли вы оригинальный научный, академический или бизнес-вклад, имеющий существенное значение для вашей области?
   * Нужны исследования
 * Являетесь ли вы автором научных статей, опубликованных в профессиональных журналах или других крупных медиа?
   * Нужны статьи
+    * Писать сюда
+      * IEEE Security & Privacy Magazine
+      * ACM Digital Library: https://dl.acm.org/
+      * SANS Reading Room
+      * USENIX: https://www.usenix.org/publications
+    * На эти темы
   * Нужны выступления
+    * https://ontico.ru/manifest.html?utm_source=tg&utm_medium=post&utm_campaign=anons&utm_content=manifestHL1612
+    * https://cfp.highload.ru/spb?utm_source=tg&utm_medium=post&utm_campaign=anons&utm_content=manifestHL1612
 * Демонстрировались ли ваши работы на художественных выставках или показах?
 * Исполняли ли вы ведущую или ключевую роль в организации с выдающейся репутацией?
   * Тех. лид в Сбере?
@@ -31,6 +43,7 @@ https://www.uscis.gov/working-in-the-united-states/stem-employment-pathways/immi
 
 ### EB-2
 Нужен оффер + еще 4 года опыта
+
 
 ### F-1
 Поступить на магистра
